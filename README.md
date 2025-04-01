@@ -1,0 +1,1 @@
+# This repository contains my personal notes, explanations, and solutions for selected **Leetcode problems**, organized by patterns and topics. I'm actively solving and reviewing problems to sharpen my data structures and algorithms knowledge.
